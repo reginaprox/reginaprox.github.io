@@ -81,7 +81,7 @@ var l_bgImages = [
 	"u.jpg",
 	"i.jpg",
         "o.jpg",
-        "p.jpg"
+        "p.jpeg"
 ];
 
 // (Image-background only)
