@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "kotor.png";
+var l_serverImage = "http://static.cdn.ea.com/www.bioware.com/wp-content/uploads/2013/08/logo_kotor_03-380x167.png";
 
 // Center logo?
 // 'true' or 'false'
