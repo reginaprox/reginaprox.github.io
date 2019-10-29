@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "";
+var l_serverImage = "kotor.png";
 
 // Center logo?
 // 'true' or 'false'
@@ -18,7 +18,7 @@ var l_centerLogo = true;
 
 // Display current map and gamemode?
 // 'true' or 'false'
-var l_displayMapGamemode = true;
+var l_displayMapGamemode = false;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
