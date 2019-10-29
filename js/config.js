@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Resident Evil";
+var l_serverName = "111111";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,14 +72,16 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"1.jpg",
-	"2.jpg",
-	"3.jpg",
-	"4.jpg",
-	"5.jpg",
-	"6.jpg",
-	"7.jpg",
-	"8.jpg"
+	"q.jpg",
+	"w.jpg",
+	"e.jpg",
+	"r.jpg",
+	"t.jpg",
+	"y.jpg",
+	"u.jpg",
+	"i.jpg"
+        "o.jpg"
+        "p.jpg"
 ];
 
 // (Image-background only)
@@ -138,8 +140,13 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер Resident Evil RP | Umbrella Corporation",
-	"Б.О.О - Биологически Опасное Оружие",
+	"Добро пожаловать на сервер STAR WARS KOTOR SITH LORDS",
+	"Встать на путь Света или податься своим эмоциям решать вам",
+        "Так же не забывайте вступать в дискорд сервера, там много интересного",
+        "Сервер не настроен на серьезный, или фулл РП отыгрыш, каждый отыгрывает так как он хочет, и может",
+	"Основатель сервера Commandos - Дарт Нихилус",
+	"На данном сервере вы сможете стать как Ситхом так и Джедаем, или же стать Серым джедаем, решать вам",
+	"Так же вы можете почувствовать себя в роли обычного Наемника или Мандалорца",
 ];
 
 // Random message order?
