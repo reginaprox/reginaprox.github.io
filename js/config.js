@@ -79,8 +79,8 @@ var l_bgImages = [
 	"t.jpg",
 	"y.jpg",
 	"u.jpg",
-	"i.jpg"
-        "o.jpg"
+	"i.jpg",
+        "o.jpg",
         "p.jpg"
 ];
 
