@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "http://static.cdn.ea.com/www.bioware.com/wp-content/uploads/2013/08/logo_kotor_03-380x167.png";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
@@ -22,7 +22,7 @@ var l_displayMapGamemode = false;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "111111";
+var l_serverName = "Project Black Sun | RP | TFA";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,16 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"q.jpg",
-	"w.jpg",
-	"e.jpg",
-	"r.jpg",
-	"t.jpg",
-	"y.jpg",
-	"u.jpg",
-	"i.jpg",
-        "o.jpg",
-        "p.jpeg"
+	"d1.jpg",
+	"d2.jpg",
+	"d3.jpg",
+	"d4.jpg"
 ];
 
 // (Image-background only)
@@ -92,7 +86,7 @@ var l_bgImagesRandom = true;
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 15000;
+var l_bgImageDuration = 25000;
 
 // (Image-background only)
 // Image background fade velocity
