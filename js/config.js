@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "https://img.donanimhaber.com/upfiles/1088628/6594f7c5-cfbc-4119-b4e3-6dce34b0046b.PNG";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
