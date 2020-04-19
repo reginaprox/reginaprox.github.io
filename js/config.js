@@ -22,7 +22,7 @@ var l_displayMapGamemode = false;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Project Black Sun | RP | TFA";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -55,7 +55,7 @@ var l_bgVideo = false;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "bluefall.webm";
+var l_background = "";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -72,10 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"d1.jpg",
-	"d2.jpg",
-	"d3.jpg",
-	"d4.jpg"
+	"hunk.jpg"
 ];
 
 // (Image-background only)
@@ -134,7 +131,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер Project Black Sun",
+	"Добро пожаловать на сервер Resident Evil Final",
+	"Не знание правил не освобождает вас от ответственности",
 ];
 
 // Random message order?
