@@ -72,7 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"hunk.jpg"
+	"desertdlc.jpg"
 ];
 
 // (Image-background only)
@@ -131,8 +131,11 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер Resident Evil Final",
+	"Добро пожаловать на сервер Fable Legends",
 	"Не знание правил не освобождает вас от ответственности",
+	"На сервере присутствуют данжи, битвы с боссами а так же сюжетные ивенты",
+	"Более 20 квестов. 50 оружия ближнего боя на выбор, более 20 доспехов доступных для покупки",
+	"Убедительная просьба вступить в дискорд канал сервера, вся информация об обновлениях, тех.работах находиться именно там",
 ];
 
 // Random message order?
