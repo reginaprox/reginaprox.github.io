@@ -72,7 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"desertdlc.jpg"
+	"rc.jpg",
+        "rc1.jpg",
+        "rc2.jpg"
 ];
 
 // (Image-background only)
@@ -100,7 +102,7 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
@@ -111,15 +113,12 @@ var l_musicDisplay = false;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{youtube: "https://youtu.be/lc1_QVOGeWg", name: "Voile, the Magic Library"},
 ];
 
 // Random music order?
 // 'true' or 'false'
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
@@ -131,11 +130,10 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер Fable Legends",
-	"Не знание правил не освобождает вас от ответственности",
-	"На сервере присутствуют данжи, битвы с боссами а так же сюжетные ивенты",
-	"Более 20 квестов. 50 оружия ближнего боя на выбор, более 20 доспехов доступных для покупки",
-	"Убедительная просьба вступить в дискорд канал сервера, вся информация об обновлениях, тех.работах находиться именно там",
+	"Добро пожаловать на сервер Resident Evil Final | Outbreak",
+	"На данном сервере вы сможете ощутить себя в роли обычного Гражданского, наемника U.B.C.S, Военным исполняющим приказ или Офицером R.P.D !",
+	"Пожалуйста ознакомьтесь с внутри-игровыми правилами сервера, найти ссылку на правила вы можете в дискорд канале сервера !",
+	"Убедительная просьба вступить в дискорд канал сервера, вся информация об обновлениях, тех.работах находиться именно там !",
 ];
 
 // Random message order?
