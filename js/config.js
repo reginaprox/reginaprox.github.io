@@ -98,7 +98,7 @@ var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-var l_bgDarkening = 50;
+var l_bgDarkening = 45;
 
 // Play music during the loading screen?
 // 'true' or 'false'
@@ -106,14 +106,14 @@ var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/lc1_QVOGeWg", name: "Voile, the Magic Library"},
+	{youtube: "https://youtu.be/lc1_QVOGeWg", name: "Dino Crisis 2 - Safe Room"},
 ];
 
 // Random music order?
@@ -142,7 +142,7 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 5000;
+var l_messagesDelay = 15000;
 
 // Messages fade time
 // in milliseconds
