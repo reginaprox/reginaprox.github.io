@@ -72,9 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"rc.jpg",
-        "rc1.jpg",
-        "rc2.jpg"
+	"load.jpg"
 ];
 
 // (Image-background only)
@@ -113,7 +111,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/lc1_QVOGeWg", name: "Dino Crisis 2 - Safe Room"},
+	{youtube: "https://youtu.be/Xe1z_S2giGQ", name: "geneburn - the hood"},
 ];
 
 // Random music order?
@@ -130,8 +128,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер Resident Evil Final | Outbreak",
-	"На данном сервере вы сможете ощутить себя в роли обычного Гражданского, наемника U.B.C.S, Военным исполняющим приказ или Офицером R.P.D !",
+	"Добро пожаловать на сервер S.T.A.L.K.E.R SunDown",
 	"Пожалуйста ознакомьтесь с внутри-игровыми правилами сервера, найти ссылку на правила вы можете в дискорд канале сервера !",
 	"Убедительная просьба вступить в дискорд канал сервера, вся информация об обновлениях, тех.работах находиться именно там !",
 ];
@@ -142,7 +139,7 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 15000;
+var l_messagesDelay = 30000;
 
 // Messages fade time
 // in milliseconds
