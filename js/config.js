@@ -72,7 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"load.jpg"
+        "load.jpg",
+        "load2.jpg",
+	"load1.jpg"
 ];
 
 // (Image-background only)
