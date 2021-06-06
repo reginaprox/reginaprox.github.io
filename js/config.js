@@ -22,7 +22,7 @@ var l_displayMapGamemode = false;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "-";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,7 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-        "load.jpg"
+        "scp_1.png"
+        "scp_2.jpeg"
+        "scp_3.jpg"
+	"scp_4.png"
 ];
 
 // (Image-background only)
@@ -111,7 +114,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/Xe1z_S2giGQ", name: "geneburn - the hood"},
+	{youtube: "https://youtu.be/-OPLyrp1bd0", name: "SCP Main Theme & The Final Flash "},
 ];
 
 // Random music order?
@@ -128,8 +131,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер S.T.A.L.K.E.R SunDown",
-	"Пожалуйста ознакомьтесь с внутри-игровыми правилами сервера, найти ссылку на правила вы можете в дискорд канале сервера !",
+	"Добро пожаловать на сервер S.C.P Final",
+	"Пожалуйста ознакомьтесь с внутри-игровыми правилами сервера. Ссылка на внутри-игровые правила находиться в дискорде сервера !",
 	"Убедительная просьба вступить в дискорд канал сервера, вся информация об обновлениях, тех.работах находиться именно там !",
 ];
 
