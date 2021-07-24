@@ -128,7 +128,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер S.C.P Final - мы рады что вы до сих пор с нами, не смотря ни на что. Спасибо.",
+	"Добро пожаловать на сервер S.C.P Final - мы рады что вы до сих пор с нами, не смотря на все трудности. Спасибо.",
 ];
 
 // Random message order?
