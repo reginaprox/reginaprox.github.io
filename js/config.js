@@ -72,7 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-        "knight.jpg"
+        "stalker.jpeg"
+        "stalker2.jpeg"
+        "stalker3.jpeg"
+        "stalker4.jpeg"
 ];
 
 // (Image-background only)
@@ -111,7 +114,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/z0nZAXyF2BU", name: "S.C.P - Final - END"},
+	{youtube: "https://youtu.be/urK8zFwa-4c", name: "Stalker OST - Dirge for the Planet (Gingertail Cover)"},
 ];
 
 // Random music order?
@@ -120,7 +123,7 @@ var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 10;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -128,7 +131,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер S.C.P Final - мы рады что вы до сих пор с нами, не смотря на все трудности. Спасибо.",
+	"---",
 ];
 
 // Random message order?
