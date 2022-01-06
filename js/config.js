@@ -77,7 +77,7 @@ var l_bgImages = [
 	"re_3.jpg",
 	"re_4.jpg",
 	"re_5.jpg",
-	"re_6.jpg",
+	"re_6.jpg"
 ];
 
 // (Image-background only)
