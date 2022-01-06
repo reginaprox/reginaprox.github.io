@@ -74,9 +74,6 @@ var l_bgImageMapBased = false;
 var l_bgImages = [
 	"re_1.jpg",
 	"re_2.jpg",
-	"re_3.jpg",
-	"re_4.jpg",
-	"re_5.jpg",
 	"re_6.jpg",
 ];
 
