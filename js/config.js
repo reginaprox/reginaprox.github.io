@@ -55,7 +55,7 @@ var l_bgVideo = false;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "";
+var l_background = "https://youtu.be/YIfn8JJQW3Q";
 
 // (Image-background only)
 // Enable map-based background image?
