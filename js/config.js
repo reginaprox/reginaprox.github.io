@@ -72,9 +72,8 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"re_1.jpg",
-	"re_2.jpg",
-	"re_6.jpg",
+	"re1.jpg",
+	"re2.png",
 ];
 
 // (Image-background only)
@@ -131,7 +130,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Приветствуем вас на проекте посвященный всленной Resident Evil!",
-	"Проект был создан совместно с Proxima и Mother Guillotine.",
+	"Проект был создан совместно Proxima и Mother Guillotine.",
 	"Цель проекта - обеспечеие приятного/лампового и веселого времяпрепровождении на сервере.",
 	"Наше сплоченное и дружное комьюнити, с радостью примет вас и поможет в случае возникновение игровых проблем.",
 	"Обязательно ознакомьтесь с внутри-игровыми правилами сервера и вступите в дискорд сервера, для получения информации об тех.работах и обновлениях.",
