@@ -129,7 +129,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Добро пожаловать на заключительный ивент Resident Evil | Chapter One!",
-	"Проект был создан совместно Proxima и Mother Guillotine, GlobalPublic, T-420.",
+	"Проект был создан совместно Proxima, Mother Guillotine, GlobalPublic и T-420.",
 
 // Random message order?
 // 'true' or 'false'
