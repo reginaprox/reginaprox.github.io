@@ -72,7 +72,12 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"end.jpeg",
+	"df1.jpg",
+	"df2.jpg",
+	"df3.jpg",
+	"df4.jpg",
+	"df5.jpg",
+	"df6.jpg"
 ];
 
 // (Image-background only)
@@ -111,7 +116,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/nblPAN7DaVQ", name: "Resident Evil 3 Nemesis - Safe Room."},
+	{youtube: "https://youtu.be/rkL4_VKpyFQ?list=PL17PSucW5L7nEPyX3tqEzq_wmyYk2IkXr", name: "Darkest Dungeon - A Brief Respite."},
 ];
 
 // Random music order?
@@ -128,8 +133,18 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на заключительный ивент Resident Evil | Chapter One!",
-	"Проект был создан совместно Proxima, Mother Guillotine, GlobalPublic и T-420.",
+	"Добро пожаловать на сервер Dark Final | Chapter Plague!",
+	"Основной лор сервера базируется на игровой вселенной Tyranny.",
+	"Помните, что смерть вашего персонажа - это ещё не конец.",
+	"Стражники внимательно наблюдают за вами, смотрите в оба!",
+	"Ваш путь начнется из темницы, возможно раньше вы были бандитом, гладиатором, простолюдином, а может вы и вовсе, практиковали запретную магию.",
+	"Ваш персонаж, это не отьемлемая часть вашей игры. Продумайте его получше!",
+	"Зароботок золота, не посильная задача. Возможно вам стоит вступить в какую-нибудь гильдию ?",
+	"Гильдии, Ковенанты, Ордены, в них всегда можно найти приглянувшуюся вам идеологию.",
+	"Будьте осторожны, в лесах водятся не только орки, но и кто-то похуже!",
+	"- Не суйся в пещеры, иначе там же и останешься, - Начальник стражи.",
+	"- Говорят, Дракона недавно видели, представляешь ? - Стражник города.",
+	"- Если вы голодны, я могу предложить вам тарелку риса, цена... не столь велика, - Владелец таверны.",
 ];
 // Random message order?
 // 'true' or 'false'
