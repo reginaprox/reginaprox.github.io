@@ -72,12 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"1.jpg",
-	"2.jpg",
-	"3.jpg",
-	"4.jpg",
-	"5.jpg",
-	"6.jpg"
+	"end1.jpg"
 ];
 
 // (Image-background only)
@@ -116,7 +111,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/gOSnen64a7M", name: "Sburb - Jungle"},
+	{youtube: "https://youtu.be/c8QNTsOJ1kc?list=RDBoaWk8zWFW4", name: "???"},
 ];
 
 // Random music order?
