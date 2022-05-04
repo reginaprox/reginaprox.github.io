@@ -78,9 +78,10 @@ var l_bgImages = [
 	"b.jpg",
 	"b1.jpg",
 	"b2.jpg",
-	"s.jpg",
+	"bs.jpg",
 	"s1.jpg",
-	"s2.jpg"
+	"s2.jpg",
+	"s3.jpg"
 ];
 
 // (Image-background only)
@@ -119,7 +120,6 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/yg41u9AejSs?list=PL18UVbKCP6CKsEydHr_XK48_nDUbRDg20", name: "BL1ND JUST1C3: 1NV3ST1G4T1ON"},
 	{youtube: "https://youtu.be/Vrjq4emHk58?list=RDMM", name: "Feel"},
 ];
 
