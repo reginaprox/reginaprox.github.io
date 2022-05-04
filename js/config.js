@@ -72,7 +72,15 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"end1.jpg"
+	"4.jpg",
+	"5.jpg",
+	"6.jpg",
+	"b.jpg",
+	"b1.jpg",
+	"b2.jpg",
+	"s.jpg",
+	"s1.jpg",
+	"s2.jpg"
 ];
 
 // (Image-background only)
@@ -174,8 +182,8 @@ var l_messages = [
 	"*БУЛЬК* - SCP-457.",
 	"Я предпочитаю, тентакли знаете-ли. - SCP-035.",
 	"Да придёт мой час. - Всадник Смерти.",
-	"Я Кумихо, а не Кумиха - SCP-953.",
-	
+	"Я Кумихо, а не Кумиха. - SCP-953.",
+	"Тренировки тела - это основа. - Доктор Фостер.",	
 ];
 // Random message order?
 // 'true' or 'false'
