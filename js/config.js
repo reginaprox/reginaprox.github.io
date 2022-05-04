@@ -119,7 +119,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/CUQTuNHQAuY?list=LL", name: "Jade: Enter"},
+	{youtube: "https://youtu.be/yg41u9AejSs?list=PL18UVbKCP6CKsEydHr_XK48_nDUbRDg20", name: "BL1ND JUST1C3: 1NV3ST1G4T1ON"},
 ];
 
 // Random music order?
