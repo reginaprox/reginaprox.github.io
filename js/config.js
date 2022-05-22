@@ -72,18 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"4.jpg",
-	"5.jpg",
-	"6.jpg",
-	"b.jpg",
-	"b1.jpg",
-	"b2.jpg",
-	"bs.jpg",
-	"s1.jpg",
-	"s2.jpg",
-	"s3.jpg",
-	"s4.jpg",
-	"s5.jpg"
+	"beach.jpg"
 ];
 
 // (Image-background only)
@@ -122,7 +111,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/Ckr6KyZoS58?list=RDMM", name: "Cascade"},
+	{youtube: "https://youtu.be/LgG8lAVh-EA?list=RDGMEMYH9CUrFO7CfLJpaD7UR85w", name: "Homestuck - Pumpkin Party"},
 ];
 
 // Random music order?
