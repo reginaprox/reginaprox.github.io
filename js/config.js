@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
-var l_centerLogo = false;
+var l_centerLogo = true;
 
 // Display current map and gamemode?
 // 'true' or 'false'
@@ -120,7 +120,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/WCLC0W2Aqtc?list=PL2Ao4HRQDz96AFF6CXTAT_UIDjJGWG2Gv&t=187", name: "VtM BloodHunt Main Menu OST"},
+	{youtube: "https://youtu.be/Gmd4hQEedBU", name: "Vampire: The Masquerade - Bloodhunt - Divine Disco Club"},
 ];
 
 // Random music order?
@@ -129,7 +129,7 @@ var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 5;
+var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'false'
