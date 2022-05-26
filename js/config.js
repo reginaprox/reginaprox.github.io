@@ -72,9 +72,16 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"dnd.jpg",
 	"vampire.jpg",
-	"fallout.jpg"
+	"vampire1.jpg",
+	"vampire2.jpg",
+	"vampire3.jpeg",
+	"vampire4.jpg",
+	"vampire5.jpg",
+	"vampire6.jpg",
+	"vampire7.jpg",
+	"vampire8.jpg",
+	"vampire9.jpg",
 ];
 
 // (Image-background only)
