@@ -120,7 +120,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/McAL68_-78c?list=PL2Ao4HRQDz96AFF6CXTAT_UIDjJGWG2Gv", name: "VtM BloodHunt Main Menu OST"},
+	{youtube: "https://youtu.be/WCLC0W2Aqtc?list=PL2Ao4HRQDz96AFF6CXTAT_UIDjJGWG2Gv&t=187", name: "VtM BloodHunt Main Menu OST"},
 ];
 
 // Random music order?
@@ -137,7 +137,13 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Добро пожаловать на сервер S.C.P Beyond | БОНУС УРОВНИ!",
+    "Добро пожаловать на сервер Vampire the Masquerade | Blood",
+    "Данный сервер основывается на вселенной World of Darkness.",
+    "На сервере вы можете стать как сородичем так и обычным гражданским.",
+    "Не забывайте заходить в наш дискорд! В нём вы сможете найти информацию об обновления и новости о сервере.",
+    "Подходите к созданию персонажа с ответственностью, помните что в первую очередь именно вы будете играть за вашего персонажа.",
+    "Сервер базируется на игровом моде NutScript.",
+    "Убедительная просьба ознакомиться с правилами сервера и уставом, так же обязательно вступите в наш дискорд!",
 ];
 // Random message order?
 // 'true' or 'false'
