@@ -120,7 +120,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/LgG8lAVh-EA?list=RDGMEMYH9CUrFO7CfLJpaD7UR85w", name: "Homestuck - Pumpkin Party"},
+	{youtube: "https://youtu.be/McAL68_-78c?list=PL2Ao4HRQDz96AFF6CXTAT_UIDjJGWG2Gv", name: "VtM BloodHunt Main Menu OST"},
 ];
 
 // Random music order?
