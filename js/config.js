@@ -97,7 +97,7 @@ var l_bgImageDuration = 60000;
 // (Image-background only)
 // Image background fade velocity
 // in milliseconds
-var l_bgImageFadeVelocity = 2000;
+var l_bgImageFadeVelocity = 3000;
 
 // Enable background overlay?
 // 'true' or 'false'
@@ -129,7 +129,7 @@ var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 20;
 
 // Enable custom messages?
 // 'true' or 'false'
