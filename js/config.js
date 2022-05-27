@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "";
+var l_serverImage = "https://upload.wikimedia.org/wikipedia/commons/4/40/Vampire_The_Masquerade_logo_V5.png";
 
 // Center logo?
 // 'true' or 'false'
@@ -143,6 +143,7 @@ var l_messages = [
     "Не забывайте заходить в наш дискорд! В нём вы сможете найти информацию об обновления и новости о сервере.",
     "Подходите к созданию персонажа с ответственностью, помните что в первую очередь именно вы будете играть за вашего персонажа.",
     "Сервер базируется на игровом моде NutScript.",
+    "- Если я утонченный, это не значит что я педофил, - Вентру.",
     "Убедительная просьба ознакомиться с правилами сервера и уставом, так же обязательно вступите в наш дискорд!",
 ];
 // Random message order?
