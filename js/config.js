@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "https://upload.wikimedia.org/wikipedia/commons/4/40/Vampire_The_Masquerade_logo_V5.png";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
