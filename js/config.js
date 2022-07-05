@@ -72,7 +72,16 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"vampireend.jpg"
+	"cyber1.jpg",
+	"cyber2.jpg",
+	"cyber3.jpg",
+	"cyber4.jpg",
+	"cyber5.jpg",
+	"cyber6.jpg",
+	"cyber7.jpg",
+	"cyber8.jpg",
+	"cyber9.jpg",
+	"cyber10.jpg"
 ];
 
 // (Image-background only)
@@ -111,7 +120,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/5mpBN03OpaY", name: "Vampire: The Masquerade - Bloodhunt - Feel Nothing"},
+	{youtube: "https://youtu.be/WbnHutA1u_0", name: "Perturbator - Venger"},
 ];
 
 // Random music order?
@@ -128,7 +137,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-    "Добро пожаловать на сервер Vampire the Masquerade | Blood",
+    "Добро пожаловать на сервер CYBER SHOCK | Chapter One | Hunt",
     "Данный сервер основывается на вселенной World of Darkness.",
     "На сервере вы можете стать как сородичем так и обычным гражданским.",
     "Не забывайте заходить в наш дискорд! В нём вы сможете найти информацию об обновления и новости о сервере.",
