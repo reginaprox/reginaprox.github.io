@@ -120,7 +120,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/redlketVxn4?list=LL", name: "Carpenter Brut - Inferno Galore"},
+	{youtube: "", name: "Carpenter Brut - Inferno Galore"},
 ];
 
 // Random music order?
