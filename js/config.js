@@ -120,7 +120,18 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "", name: "Carpenter Brut - Inferno Galore"},
+	{youtube: "https://youtu.be/5eMER59srJA?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Power of Innocence"},
+	{youtube: "https://youtu.be/69iJ2amfY1g?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Reaper's Coast"},
+	{youtube: "https://youtu.be/WrLz5stos70?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Mead, Gold and Blood Ifan's Theme"},
+	{youtube: "https://youtu.be/l1XRcw3nLS0?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Sing for Me (Lohse Version)"},
+	{youtube: "https://youtu.be/fvyx7vZy13E?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - The Queen's High Seas (Beast's Theme)"},
+	{youtube: "https://youtu.be/mf7Pw9frMs8?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Crazy Troubled Senses"},
+	{youtube: "https://youtu.be/MSYHm0lmc2k?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Terratus"},
+	{youtube: "https://youtu.be/j-FLHbjdljk?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Pillars in the Sky"},
+	{youtube: "https://youtu.be/nVzQAh_3r4A?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Fatebinder"},
+	{youtube: "https://youtu.be/VmGJX4_fin0?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Spires"},
+	{youtube: "https://youtu.be/wUWEZ47-elQ?list=PL49BFE8EC46EB1047", name: "Fable: The Lost Chapters - Fable Theme"},
+	{youtube: "https://youtu.be/D90X7_XJnKk?list=PL49BFE8EC46EB1047", name: "Fable: The Lost Chapters - Temple of Light"},
 ];
 
 // Random music order?
