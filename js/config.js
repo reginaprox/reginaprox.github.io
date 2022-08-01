@@ -78,7 +78,8 @@ var l_bgImages = [
 	"dnd4.jpg",
 	"dnd5.jpg",
 	"dnd6.jpg",
-	"dnd7.jpg"
+	"dnd7.jpg",
+	"dnd8.jpg"
 ];
 
 // (Image-background only)
