@@ -72,16 +72,13 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"cyber1.jpg",
-	"cyber2.jpg",
-	"cyber3.jpg",
-	"cyber4.jpg",
-	"cyber5.jpg",
-	"cyber6.jpg",
-	"cyber7.jpg",
-	"cyber8.jpg",
-	"cyber9.jpg",
-	"cyber10.jpg"
+	"dnd1.jpg",
+	"dnd2.jpg",
+	"dnd3.jpg",
+	"dnd4.jpg",
+	"dnd5.jpg",
+	"dnd6.jpg",
+	"dnd7.jpg"
 ];
 
 // (Image-background only)
