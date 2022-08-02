@@ -134,7 +134,7 @@ var l_musicPlaylist = [
 
 // Random music order?
 // 'true' or 'false'
-var l_musicRandom = false;
+var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
