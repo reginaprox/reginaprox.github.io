@@ -146,7 +146,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-    "Добро пожаловать на сервер CYBER SHOCK | Chapter One | Hunt",
+    "Добро пожаловать на сервер Dungeon and Dragons | Chapter One",
 ];
 // Random message order?
 // 'true' or 'false'
