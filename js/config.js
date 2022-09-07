@@ -72,11 +72,11 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"dnd1.jpg",
-	"dnd2.jpg",
-	"dnd3.jpg",
-	"dnd4.jpg",
-	"dnd5.jpg",
+	"https://i.playground.ru/p/vsHx-zMH1h0XLyOJZADUaA.jpeg",
+	"https://picua.org/images/2018/11/12/f25e8f74e6012172e7dd60cc8919e73b.jpg",
+	"https://phonoteka.org/uploads/posts/2021-05/1622206155_20-phonoteka_org-p-peshchera-fentezi-art-krasivo-22.jpg",
+	"https://www.free-wallpapers.su/data/media/25/big/fan0534.jpg",
+	"https://cdna.artstation.com/p/assets/images/images/020/774/572/large/jessica-julien-img-0592.jpg?1569126637",
 	"dnd6.jpg",
 	"dnd7.jpg",
 	"dnd8.jpg"
@@ -118,11 +118,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/5eMER59srJA?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Power of Innocence"},
-	{youtube: "https://youtu.be/69iJ2amfY1g?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Reaper's Coast"},
-	{youtube: "https://youtu.be/WrLz5stos70?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Mead, Gold and Blood Ifan's Theme"},
-	{youtube: "https://youtu.be/l1XRcw3nLS0?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Sing for Me (Lohse Version)"},
-	{youtube: "https://youtu.be/fvyx7vZy13E?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - The Queen's High Seas (Beast's Theme)"},
+	{youtube: "https://youtu.be/ysU94a6pnK4?list=PL6FE892C35C4D403D", name: "WoW - Wraith of the Lich Kin - Assault On New Avalon"},
+	{youtube: "https://youtu.be/_1XKOJN_Rp8?list=PL6FE892C35C4D403D", name: "WoW - Wraith of the Lich Kin - Main Title"},
+	{youtube: "https://youtu.be/kFR7n2hXpfY", name: "World of Warcraft - Sylvanas' Theme"},
+	{youtube: "https://youtu.be/l1XRcw3nLS0?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "World of Warcraft - A Call to Arms"},
+	{youtube: "https://youtu.be/_x0CNTlvqfs", name: "World of Warcraft - Demon Hunter Theme."},
 	{youtube: "https://youtu.be/mf7Pw9frMs8?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Crazy Troubled Senses"},
 	{youtube: "https://youtu.be/MSYHm0lmc2k?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Terratus"},
 	{youtube: "https://youtu.be/j-FLHbjdljk?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Pillars in the Sky"},
