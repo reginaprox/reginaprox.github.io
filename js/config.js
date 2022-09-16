@@ -72,14 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"https://i.playground.ru/p/vsHx-zMH1h0XLyOJZADUaA.jpeg",
-	"https://picua.org/images/2018/11/12/f25e8f74e6012172e7dd60cc8919e73b.jpg",
-	"https://phonoteka.org/uploads/posts/2021-05/1622206155_20-phonoteka_org-p-peshchera-fentezi-art-krasivo-22.jpg",
-	"https://www.free-wallpapers.su/data/media/25/big/fan0534.jpg",
-	"https://cdna.artstation.com/p/assets/images/images/020/774/572/large/jessica-julien-img-0592.jpg?1569126637",
-	"dnd6.jpg",
-	"dnd7.jpg",
-	"dnd8.jpg"
+	"https://get.wallhere.com/photo/Benjamin-van-Valen-men-Photoshop-photo-manipulation-soldier-Moon-night-abandoned-destruction-gun-1808505.jpg"
 ];
 
 // (Image-background only)
@@ -118,18 +111,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/ysU94a6pnK4?list=PL6FE892C35C4D403D", name: "WoW - Wraith of the Lich Kin - Assault On New Avalon"},
-	{youtube: "https://youtu.be/_1XKOJN_Rp8?list=PL6FE892C35C4D403D", name: "WoW - Wraith of the Lich Kin - Main Title"},
-	{youtube: "https://youtu.be/kFR7n2hXpfY", name: "World of Warcraft - Sylvanas' Theme"},
-	{youtube: "https://youtu.be/l1XRcw3nLS0?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "World of Warcraft - A Call to Arms"},
-	{youtube: "https://youtu.be/_x0CNTlvqfs", name: "World of Warcraft - Demon Hunter Theme."},
-	{youtube: "https://youtu.be/mf7Pw9frMs8?list=PLuX1dXf1Zu0k0JpNCoN-AealD5q-6CkNg", name: "Divinity: Original Sin 2 - Crazy Troubled Senses"},
-	{youtube: "https://youtu.be/MSYHm0lmc2k?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Terratus"},
-	{youtube: "https://youtu.be/j-FLHbjdljk?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Pillars in the Sky"},
-	{youtube: "https://youtu.be/nVzQAh_3r4A?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Fatebinder"},
-	{youtube: "https://youtu.be/VmGJX4_fin0?list=PLwNcU6UOEFazOK4bMAcl1o7O1v1FTsK83", name: "Tyranny - Spires"},
-	{youtube: "https://youtu.be/wUWEZ47-elQ?list=PL49BFE8EC46EB1047", name: "Fable: The Lost Chapters - Fable Theme"},
-	{youtube: "https://youtu.be/D90X7_XJnKk?list=PL49BFE8EC46EB1047", name: "Fable: The Lost Chapters - Temple of Light"},
+	{youtube: "https://youtu.be/UxHruHuWKt4", name: "Geneburn - Eclipse"},
+	{youtube: "https://youtu.be/Jq58rQ5W_Tc", name: "Geneburn - Echoes"},
+	{youtube: "https://youtu.be/GHrPSv9QM0s", name: "Geneburn - Edge of Darkness"},
 ];
 
 // Random music order?
@@ -138,7 +122,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 10;
+var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -146,7 +130,12 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-    "Добро пожаловать на сервер Dungeon and Dragons | Chapter One",
+    "Добро пожаловать на сервер S.T.A.L.K.E.R | SunRise",
+    "S.T.A.L.K.E.R | SunRise является продолжением сюжетного сервера S.T.A.L.K.E.R | SunDown",
+    "Не забудьте вступить в дискорд сервера! В нем находится вся необходимая информация о работоспособности и обновлениях сервера! - /discord",
+    "После вступления в игру, не забудьте ознакомиться с внутри-игровыми правилами сервера! - /rules",
+    "Некорректное отображение моделей/текстур ? - /content",
+    "Наемников интересует лишь деньги, попомни мое слово, - Вольный Сталкер",
 ];
 // Random message order?
 // 'true' or 'false'
