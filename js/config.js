@@ -77,10 +77,10 @@ var l_bgImages = [
 	"https://www.residentevilvillage8.com/wp-content/uploads/2021/05/the-Tragedy-of-ethan-winters-re7-33.jpg",
 	"https://residentevil.com.br/wp-content/uploads/2019/02/02-1.jpg",
 	"https://cdn.suwalls.com/wallpapers/games/resident-evil-operation-raccoon-city-20191-1920x1080.jpg",
-	"https://steamuserimages-a.akamaihd.net/ugc/940592907849335863/6C41E17F75754C3EC259CEC798A063ECC528CEA6/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+	"https://images7.alphacoders.com/994/thumb-1920-994395.jpg",
 	"https://www.emperador.fr/wp-content/uploads/2019/02/002-1920x1080.jpg",
 	"https://www.emperador.fr/wp-content/uploads/2019/02/003-1.jpg",
-	"https://steamuserimages-a.akamaihd.net/ugc/487807774146051666/069231F3608D8ECF6DDFB1F8F55D1239360C52CE/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
+	"https://store-images.s-microsoft.com/image/apps.53559.14200310963607701.070ff03e-7f10-4c0b-89a6-a46c9abe8e01.8142305e-9870-4716-8ee1-7812184cf5d2?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF"
 ];
 
 // (Image-background only)
