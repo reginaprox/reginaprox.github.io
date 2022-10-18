@@ -111,9 +111,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/UxHruHuWKt4", name: "Geneburn - Eclipse"},
-	{youtube: "https://youtu.be/Jq58rQ5W_Tc", name: "Geneburn - Echoes"},
-	{youtube: "https://youtu.be/GHrPSv9QM0s", name: "Geneburn - Edge of Darkness"},
+	{youtube: "https://youtu.be/4pZV3UPmXI4", name: "Resident Evil 1 - Safe Room"},
+	{youtube: "https://youtu.be/vMz6bhXyNZc", name: "Resident Evil 2 - Safe Room"},
+	{youtube: "https://youtu.be/nblPAN7DaVQ", name: "Resident Evil 3 - Safe Room"},
+	{youtube: "https://youtu.be/qgnZ9w5ghwE", name: "Resident Evil 4 - Safe Room"},
+	{youtube: "https://youtu.be/Gv7LhRRpKKw", name: "Resident Evil 5 - Safe Room"},
 ];
 
 // Random music order?
