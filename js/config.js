@@ -72,7 +72,15 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"https://get.wallhere.com/photo/Benjamin-van-Valen-men-Photoshop-photo-manipulation-soldier-Moon-night-abandoned-destruction-gun-1808505.jpg"
+	"https://wallpapersprinted.com/download/1/video_game_4_resident_evil_2_hd_games-HD.jpg",
+	"https://www.fonstola.ru/pic/201310/1366x768/fonstola.ru-129131.jpg",
+	"https://www.residentevilvillage8.com/wp-content/uploads/2021/05/the-Tragedy-of-ethan-winters-re7-33.jpg",
+	"https://residentevil.com.br/wp-content/uploads/2019/02/02-1.jpg",
+	"https://cdn.suwalls.com/wallpapers/games/resident-evil-operation-raccoon-city-20191-1920x1080.jpg",
+	"https://steamuserimages-a.akamaihd.net/ugc/940592907849335863/6C41E17F75754C3EC259CEC798A063ECC528CEA6/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+	"https://www.emperador.fr/wp-content/uploads/2019/02/002-1920x1080.jpg",
+	"https://www.emperador.fr/wp-content/uploads/2019/02/003-1.jpg",
+	"https://steamuserimages-a.akamaihd.net/ugc/487807774146051666/069231F3608D8ECF6DDFB1F8F55D1239360C52CE/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
 ];
 
 // (Image-background only)
@@ -132,12 +140,11 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-    "Добро пожаловать на сервер S.T.A.L.K.E.R | SunRise",
-    "S.T.A.L.K.E.R | SunRise является продолжением сюжетного сервера S.T.A.L.K.E.R | SunDown",
+    "Добро пожаловать на сервер Resident Evl | Last Escape | Chapter Two",
+    "Resident Evl | Last Escape является спиноффом сюжетного сервера Resident Evl | Raid",
     "Не забудьте вступить в дискорд сервера! В нем находится вся необходимая информация о работоспособности и обновлениях сервера! - /discord",
     "После вступления в игру, не забудьте ознакомиться с внутри-игровыми правилами сервера! - /rules",
     "Некорректное отображение моделей/текстур ? - /content",
-    "Наемников интересует лишь деньги, попомни мое слово, - Вольный Сталкер",
 ];
 // Random message order?
 // 'true' or 'false'
