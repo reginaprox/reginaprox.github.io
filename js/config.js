@@ -72,15 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"https://wallpapersprinted.com/download/1/video_game_4_resident_evil_2_hd_games-HD.jpg",
-	"https://www.fonstola.ru/pic/201310/1366x768/fonstola.ru-129131.jpg",
-	"https://www.residentevilvillage8.com/wp-content/uploads/2021/05/the-Tragedy-of-ethan-winters-re7-33.jpg",
-	"https://residentevil.com.br/wp-content/uploads/2019/02/02-1.jpg",
-	"https://cdn.suwalls.com/wallpapers/games/resident-evil-operation-raccoon-city-20191-1920x1080.jpg",
-	"https://images7.alphacoders.com/994/thumb-1920-994395.jpg",
-	"https://www.emperador.fr/wp-content/uploads/2019/02/002-1920x1080.jpg",
-	"https://www.emperador.fr/wp-content/uploads/2019/02/003-1.jpg",
-	"https://store-images.s-microsoft.com/image/apps.53559.14200310963607701.070ff03e-7f10-4c0b-89a6-a46c9abe8e01.8142305e-9870-4716-8ee1-7812184cf5d2?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF"
+	"https://ixbt.online/gametech/covers/2020/10/18/cw6xzLDEJo3vEFqH0WzQFUhzrnF2WA5shcPwAaWj.jpeg"
 ];
 
 // (Image-background only)
@@ -119,11 +111,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/4pZV3UPmXI4", name: "Resident Evil 1 - Safe Room"},
-	{youtube: "https://youtu.be/vMz6bhXyNZc", name: "Resident Evil 2 - Safe Room"},
-	{youtube: "https://youtu.be/nblPAN7DaVQ", name: "Resident Evil 3 - Safe Room"},
-	{youtube: "https://youtu.be/qgnZ9w5ghwE", name: "Resident Evil 4 - Safe Room"},
-	{youtube: "https://youtu.be/Gv7LhRRpKKw", name: "Resident Evil 5 - Safe Room"},
+	{youtube: "https://youtu.be/5i4qKemaZG4", name: "Silent Hill"},
 ];
 
 // Random music order?
@@ -140,8 +128,6 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-    "Добро пожаловать на сервер Resident Evl | Last Escape | Chapter Two",
-    "Resident Evl | Last Escape является спиноффом сюжетного сервера Resident Evl | Raid",
     "Не забудьте вступить в дискорд сервера! В нем находится вся необходимая информация о работоспособности и обновлениях сервера! - /discord",
     "После вступления в игру, не забудьте ознакомиться с внутри-игровыми правилами сервера! - /rules",
     "Некорректное отображение моделей/текстур ? - /content",
