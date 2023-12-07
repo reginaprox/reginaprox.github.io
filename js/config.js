@@ -72,7 +72,12 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"https://ixbt.online/gametech/covers/2020/10/18/cw6xzLDEJo3vEFqH0WzQFUhzrnF2WA5shcPwAaWj.jpeg"
+	"https://www.nma-fallout.com/data/xengallery-profile-cover/115/115749-1506908098.jpg",
+	"https://img.goodfon.ru/original/1920x1080/8/49/fallout-new-vegas-companions.jpg",
+	"https://wallpapers.com/images/hd/fallout-nv-1920-x-1080-n7xb77fgx23730a5.jpg",
+	"https://pic.rutubelist.ru/video/58/73/58730ad29e3f457ae2efa322473798f2.jpg",
+	"https://i.pinimg.com/originals/f2/29/4b/f2294bd8e1241b691f8778d7acc9005f.jpg",
+	"https://i.pinimg.com/originals/9b/5c/ec/9b5cec9fca165623255e816ee3fbbac4.png",
 ];
 
 // (Image-background only)
@@ -111,7 +116,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/5i4qKemaZG4", name: "Silent Hill"},
+	{youtube: "https://youtu.be/eVo9pVTelcE", name: "Kenshi: Scorching Wind"},
 ];
 
 // Random music order?
@@ -120,7 +125,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 10;
 
 // Enable custom messages?
 // 'true' or 'false'
